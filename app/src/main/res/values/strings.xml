@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Play Juegos</string>
+    <string name="texto_app">Play Juegos</string>
+    <string name="button_1">PLAY</string>
+    <string name="button_2">NEW PLAYER</string>
+    <string name="button_3">PREFERENCIES</string>
+    <string name="button_4">ABOUT</string>
+    <string name="name">Name</string>
+    <string name="phonname">Phonetic name</string>
+    <string name="nickame">Nickname</string>
+    <string name="change">change</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="action_add" />
+    <string name="action_buscar" />
+    <string name="action_settings" />
+    <string name="elegir_juego">Elige un juego</string>
+    <string name="AngryBird">Angry Birds</string>
+    <string name="RadiantDefender">Radiant Defender</string>
+    <string name="HillClim">Hill Clim Racing</string>
+    <string name="PocketShoker">Pocket Soccer</string>
+    <string name="DragonFly">DragonFly</string>
+    <string name="Gener1">Accion</string>
+    <string name="Gener2">Aventura</string>
+    <string name="Gener3">Deprotes</string>
+    <string name="Gener4">Disparos</string>
+    <string name="Gener5">Estrategia</string>
+    <string name="Gener6">Lucha</string>
+    <string name="Gener7">Musical</string>
+    <string name="Gener8">Rol</string>
+    <string name="Gener9">Simulacion</string>
+    <string name="Nombre1">Ana Boueles</string>
+    <string name="Nombre2">Aitor Tilla</string>
+    <string name="Nombre3">Aitor Menta</string>
+    <string name="Nombre4">Elena Nito</string>
+    <string name="Nombre5">Patricia Garcia</string>
+    <string name="Nombre6">Tomas Colores</string>
+    <string name="Nombre7">Paco Alcon</string>
+    <string name="Nombre8">Omar Croqueta</string>
+    <string name="Año1">2002</string>
+    <string name="Año2">2003</string>
+    <string name="Año3">2004</string>
+    <string name="Año4">2005</string>
+    <string name="Año5">2006</string>
+    <string name="Año6">2007</string>
+    <string name="Año7">2008</string>
+    <string name="Año8">2009</string>
+
+
+
+
+</resources>
